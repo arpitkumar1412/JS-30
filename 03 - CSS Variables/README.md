@@ -1,4 +1,4 @@
 # JS-30
 
-Learnt about CSS variable and how to access them through JavaScript.
-![Sample Screen](Scoped CSS Variables and JS.png)
+Learnt about CSS variable and how to access them through JavaScript.<br>
+<img src = "Scoped_CSS_Variables_and_JS.png">
